@@ -17,7 +17,8 @@ I don't just want to know how a tool works. I want to understand why we use it a
 I am continuously developing my skills in:
 - Data Analysis & Visualization  
 - Dashboard Design & Storytelling  
-- Problem-solving using data  
+- Problem-solving using data
+- Critical thinking
 
 ---
 
