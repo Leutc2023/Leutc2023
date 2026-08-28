@@ -1,7 +1,7 @@
 # Hi, I'm Claudia Leutcha 👋
 
 🎯 Business Intelligence Analyst with a diploma in Data Science  
-📊 a Data Analyst who believes good analysis starts with asking the right question. 
+📊 a Data Analyst who believes good analysis starts with asking the right question.
 📍 Interested in Finance, Fraud Detection, and Business Analytics  
 
 ---
